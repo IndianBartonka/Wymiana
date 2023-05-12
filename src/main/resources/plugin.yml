@@ -1,0 +1,11 @@
+name: Wymiana
+version: '${project.version}'
+main: me.indian.wymiana.Wymiana
+api-version: 1.19
+load: STARTUP
+authors: [IndianPL]
+description: wymiana
+website: https://github.com/IndianBartonka
+commands:
+  wymiana:
+    description: Wymień rudy na bloki
